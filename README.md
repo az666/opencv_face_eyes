@@ -1,0 +1,2 @@
+# opencv_face_eyes
+opencv和python实现人脸识别
